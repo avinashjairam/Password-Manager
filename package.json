@@ -1,0 +1,23 @@
+{
+  "name": "password-manager",
+  "version": "1.0.0",
+  "description": "Manger your passwords online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avinashjairam/Password-Manager.git"
+  },
+  "author": "Avinash Jairam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avinashjairam/Password-Manager/issues"
+  },
+  "homepage": "https://github.com/avinashjairam/Password-Manager#readme",
+  "dependencies": {
+    "node-persist": "0.0.6"
+  }
+}
